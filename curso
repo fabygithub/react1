@@ -1,0 +1,26 @@
+react github pages
+https://www.youtube.com/results?search_query=react+github+pages
+como subir una aplicacion a github pages
+1 crear la aplicacion
+una vez que la aplicacion este concluida se sube
+
+
+https://www.youtube.com/watch?v=DutXvNkt11Q&ab_channel=UskoKruM2010
+crear una aplicacion con react
+abrir la consola o la terminal
+nos dirimos a la carpeta del proyecto
+hay que instalar github pages
+npm install --save-dev gh-pages
+una vez creado ir a github
+y crear un repositorio
+vamos a ir paso a paso para que puedas aprender como hacerlo
+
+node js
+node --version
+npx create-react-app my-app
+cd my-app
+npm start
+
+
+
+
